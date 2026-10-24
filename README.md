@@ -28,7 +28,7 @@ Eventos iniciales: 2 de cine, 2 conciertos, 2 talleres y 1 festival.
 Requisitos: [.NET SDK 8.0](https://dotnet.microsoft.com/download) o superior.
 
 ```bash
-git clone https://github.com/<tu-usuario>/PLANAZO-POO-CSharp.git
+git clone https://github.com/CarlosAriza3103/PLANAZO-POO-CSharp.git
 cd PLANAZO-POO-CSharp
 dotnet run
 ```
